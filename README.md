@@ -95,8 +95,8 @@ Example triggered alerts:
 ## **Generating Test Data**
 To generate SSH failed login attempts:
 ```bash
-ssh fakeuser@localhost
-ssh hacker@localhost
+ssh local@localhost
+ssh root@localhost
 ssh admin@localhost
 ```
 For automated failures:
